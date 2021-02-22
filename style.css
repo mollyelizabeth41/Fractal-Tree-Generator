@@ -32,7 +32,7 @@ canvas {
   -ms-flex-align: center;
   align-items: center;
 */
-  font-family: Poppins, sans-serif;
+  font-family: lato, sans-serif;
 }
 
 .heading {
@@ -110,7 +110,7 @@ canvas {
 .dg {
     color:none;
     text-shadow: none !important;
-    font:Poppins, sans-serif;
+    font:lato, sans-serif;
     font-weight:bold;
     font-size:1vw;
 }
